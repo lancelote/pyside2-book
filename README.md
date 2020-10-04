@@ -5,6 +5,7 @@ My experiments with examples from "[Create GUI Applications with Python & Qt5][1
 ## TOC
 
 - [ ] Basic PySide2 Features
+  - [My first Application](my_code/basic_pyside2_features/my_first_application.py)
 - [ ] Qt Designer
 - [ ] Theming
 - [ ] Model View Architecture
